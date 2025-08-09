@@ -1,4 +1,3 @@
-http://xiduo.qzz.io/baidu_verify_codeva-zrwfqORPzf.html.html
 http://xiduo.qzz.io/link/index.html
 http://xiduo.qzz.io/p/49802/
 http://xiduo.qzz.io/json/music.json
@@ -29,5 +28,5 @@ http://xiduo.qzz.io/tags/Github/
 http://xiduo.qzz.io/tags/Hexo/
 http://xiduo.qzz.io/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/
 http://xiduo.qzz.io/tags/Hello-World/
-http://xiduo.qzz.io/categories/Hello-World/
 http://xiduo.qzz.io/categories/%E6%95%99%E7%A8%8B/
+http://xiduo.qzz.io/categories/Hello-World/
