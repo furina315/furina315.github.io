@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xiduo.qzz.io/p/49802/</loc>
+    <loc>http://xiduo.qzz.io/link/index.html</loc>
     
     <lastmod>2025-08-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://xiduo.qzz.io/link/index.html</loc>
+    <loc>http://xiduo.qzz.io/p/49802/</loc>
     
     <lastmod>2025-08-09</lastmod>
     
@@ -262,14 +262,14 @@
 
   
   <url>
-    <loc>http://xiduo.qzz.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://xiduo.qzz.io/categories/Hello-World/</loc>
     <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xiduo.qzz.io/categories/Hello-World/</loc>
+    <loc>http://xiduo.qzz.io/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
