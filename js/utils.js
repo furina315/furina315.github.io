@@ -1495,7 +1495,7 @@ const NaoKuo = {
   showWelcome: (ipStore) => {
     const WelcomeInfo = document.getElementById("welcome-info"),
       IP = ipStore.result.ip || "未知";
-    let dist = NaoKuo.getDistance(114.935029, 25.831829, ipStore.result.location.lng, ipStore.result.location.lat),
+    let dist = NaoKuo.getDistance(114.531898, 25.777861, ipStore.result.location.lng, ipStore.result.location.lat),
       address,
       welcome_info;
     //根据国家、省份、城市信息自定义欢迎语
@@ -1700,7 +1700,7 @@ const NaoKuo = {
     //自定义文本需要放的位置
     WelcomeInfo && (WelcomeInfo.innerHTML = `🙋欢迎来自 <strong>${address}</strong> 的小伙伴<br>
     😊<strong>${welcome_info}！</strong><br>
-    🗺️您距离 <strong>Naokuo</strong> 约有 <strong>${dist}</strong> 公里！<br>
+    🗺️您距离 <strong>喜多</strong> 约有 <strong>${dist}</strong> 公里！<br>
     当前IP地址为：<br>
     <strong style="font-size:12px;"><psw>${IP}</psw></strong><br>
     <strong>${timeChange}！</strong>`);
