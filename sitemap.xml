@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xiduo.qzz.io/link/index.html</loc>
+    
+    <lastmod>2025-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiduo.qzz.io/Scenery/index.html</loc>
+    
+    <lastmod>2025-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiduo.qzz.io/dailyPhoto/index.html</loc>
+    
+    <lastmod>2025-08-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://xiduo.qzz.io/p/40216/</loc>
     
     <lastmod>2025-08-12</lastmod>
@@ -14,15 +41,6 @@
     <loc>http://xiduo.qzz.io/update/index.html</loc>
     
     <lastmod>2025-08-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://xiduo.qzz.io/link/index.html</loc>
-    
-    <lastmod>2025-08-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -104,24 +122,6 @@
     <loc>http://xiduo.qzz.io/bangumis/index.html</loc>
     
     <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://xiduo.qzz.io/dailyPhoto/index.html</loc>
-    
-    <lastmod>2025-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://xiduo.qzz.io/Scenery/index.html</loc>
-    
-    <lastmod>2025-08-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -220,7 +220,7 @@
 
   <url>
     <loc>http://xiduo.qzz.io/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -228,49 +228,49 @@
   
   <url>
     <loc>http://xiduo.qzz.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/Hexo/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/Cloudflare/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/Github/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/Hello-World/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -279,14 +279,14 @@
   
   <url>
     <loc>http://xiduo.qzz.io/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/categories/Hello-World/</loc>
-    <lastmod>2025-08-12</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
