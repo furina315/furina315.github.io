@@ -1,1 +1,242 @@
-.pl-container{width:100%;height:100%;z-index:-2;position:fixed;overflow:hidden;will-change:transform;animation:blur-to-clear 2s cubic-bezier(.62,.21,.25,1) 0s 1 normal backwards running,scale 1.5s cubic-bezier(.62,.21,.25,1) 0s 1 both}.pl-img{width:100%;height:100%;position:absolute;background-position:center;background-size:cover;background-repeat:no-repeat;opacity:0;transition:opacity 1s}@keyframes blur-to-clear{0%{filter:blur(50px);opacity:1}100%{filter:blur(0);opacity:1}}@keyframes scale{0%{transform:scale(1.5) translateZ(0);opacity:0}to{transform:scale(1) translateZ(0);opacity:1}}.pl-visible{opacity:1}.pl-blur{filter:blur(50px)}#footer{background:0 0!important}#page-header{background:0 0!important}#footer-bar{background:0 0!important}#category-bar{background:0 0!important}#aside-content>.card-widget.card-info{background:linear-gradient(-45deg,#e8d8b9,#47d8dd,#1265f5,#bdbdf0,#eec1ea);box-shadow:0 0 5px #424444;position:relative;background-size:400% 400%;-webkit-animation:Gradient 10s ease infinite;-moz-animation:Gradient 10s ease infinite;animation:Gradient 10s ease infinite!important}@-webkit-keyframes Gradient{0%{background-position:0 50%}50%{background-position:100% 50%}100%{background-position:0 50%}}@-moz-keyframes Gradient{0%{background-position:0 50%}50%{background-position:100% 50%}100%{background-position:0 50%}}@keyframes Gradient{0%{background-position:0 50%}50%{background-position:100% 50%}100%{background-position:0 50%}}[data-theme=dark] #aside-content>.card-widget.card-info{background:#191919ee}#aside-content>.card-widget.card-info>#card-info-btn{background-color:#3eb8be;border-radius:8px}
+/* 首页头图加载 */
+.pl-container {
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    position: fixed;
+    overflow: hidden;
+    will-change: transform; /* 添加性能优化 */
+    animation: blur-to-clear 2s cubic-bezier(.62,.21,.25,1) 0s 1 normal backwards running, scale 1.5s cubic-bezier(.62,.21,.25,1) 0s 1 both;
+  }
+  .pl-img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0;
+    transition: opacity 1s;
+  }
+  
+  @keyframes blur-to-clear {
+    0% {
+      filter: blur(50px);
+      opacity: 1;
+    }
+    100% {
+      filter: blur(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes scale {
+    0% {
+      transform: scale(1.5) translateZ(0);
+      opacity: 0;
+    }
+    to {
+      transform: scale(1) translateZ(0);
+      opacity: 1;
+    }
+  }
+  
+  .pl-visible {
+    opacity: 1;
+  }
+  
+  .pl-blur {
+   /* 小图锯齿多，增加高斯模糊 */
+    filter: blur(50px);
+  }
+
+/* 页脚透明 */
+#footer {
+    background: transparent !important;
+  }
+  
+/* 头图透明 */
+#page-header {
+    background: transparent !important;
+  }
+/* 底部透明 */
+#footer-bar{
+    background: transparent !important;
+}
+
+/* 更多透明 */
+#category-bar{
+    background: transparent !important;
+}
+
+/* 侧边栏个人信息卡片动态渐变色 */
+#aside-content > .card-widget.card-info {
+  background: linear-gradient(
+    -45deg,
+    #e8d8b9,
+    #47d8dd,
+    #1265f5,
+    #bdbdf0,
+    #eec1ea
+  );
+  box-shadow: 0 0 5px rgb(66, 68, 68);
+  position: relative;
+  background-size: 400% 400%;
+  -webkit-animation: Gradient 10s ease infinite;
+  -moz-animation: Gradient 10s ease infinite;
+  animation: Gradient 10s ease infinite !important;
+}
+@-webkit-keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-moz-keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes Gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* 黑夜模式适配 */
+[data-theme="dark"] #aside-content > .card-widget.card-info {
+  background: #191919ee;
+}
+
+/* 个人信息Follow me按钮 */
+#aside-content > .card-widget.card-info > #card-info-btn {
+  background-color: #3eb8be;
+  border-radius: 8px;
+}
+
+/* 友链页复选框样式 */
+#agreement-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px; /* 复选框之间的间距 */
+  margin: 20px 0;
+}
+
+.checkbox-item {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  cursor: pointer;
+  font-size: 16px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  color: var(--anzhiyu-fontcolor);
+}
+
+/* 隐藏浏览器默认的复选框 */
+.checkbox-item input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* 创建自定义复选框 */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+/* 深色模式适配 */
+[data-theme="dark"] .checkmark {
+  background-color: #333;
+  border-color: #555;
+}
+
+/* 鼠标悬停时改变背景色 */
+.checkbox-item:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+[data-theme="dark"] .checkbox-item:hover input ~ .checkmark {
+  background-color: #444;
+}
+
+/* 选中时改变背景色 */
+.checkbox-item input:checked ~ .checkmark {
+  background-color: #0080ffff;
+  border-color: #0080ffff;
+}
+
+/* 创建勾号（默认隐藏） */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* 选中时显示勾号 */
+.checkbox-item input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* 勾号样式 */
+.checkbox-item .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  transform: rotate(45deg);
+  animation: checkmark-animation 0.3s ease-out;
+  transform-origin: center;
+}
+
+/* 勾号动画 */
+@keyframes checkmark-animation {
+  0% {
+    transform: scale(0) rotate(45deg);
+    opacity: 0;
+  }
+  70% {
+    transform: scale(1.2) rotate(45deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) rotate(45deg);
+  }
+}
+
+/* 默认隐藏评论区 */
+#post-comment {
+  display: none;
+}
