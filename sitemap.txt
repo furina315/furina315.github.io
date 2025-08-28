@@ -1,3 +1,4 @@
+http://xiduo.qzz.io/privacy/index.html
 http://xiduo.qzz.io/p/49802/
 http://xiduo.qzz.io/link/index.html
 http://xiduo.qzz.io/update/index.html
@@ -15,7 +16,6 @@ http://xiduo.qzz.io/p/42401/
 http://xiduo.qzz.io/bangumis/index.html
 http://xiduo.qzz.io/album/index.html
 http://xiduo.qzz.io/essay/index.html
-http://xiduo.qzz.io/privacy/index.html
 http://xiduo.qzz.io/categories/index-3.html
 http://xiduo.qzz.io/categories/index-2.html
 http://xiduo.qzz.io/categories/index-1.html
