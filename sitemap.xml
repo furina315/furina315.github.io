@@ -264,13 +264,6 @@
   </url>
   
   <url>
-    <loc>http://xiduo.qzz.io/tags/Hello-World/</loc>
-    <lastmod>2025-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://xiduo.qzz.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2025-08-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -298,6 +291,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://xiduo.qzz.io/tags/Hello-World/</loc>
+    <lastmod>2025-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -308,14 +308,14 @@
   </url>
   
   <url>
-    <loc>http://xiduo.qzz.io/categories/Hello-World/</loc>
+    <loc>http://xiduo.qzz.io/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2025-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xiduo.qzz.io/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</loc>
+    <loc>http://xiduo.qzz.io/categories/Hello-World/</loc>
     <lastmod>2025-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
