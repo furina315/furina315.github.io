@@ -22,7 +22,6 @@ http://xiduo.qzz.io/categories/index-3.html
 http://xiduo.qzz.io/categories/index-2.html
 http://xiduo.qzz.io/categories/index-1.html
 http://xiduo.qzz.io/p/27095/
-http://xiduo.qzz.io/Beta/index.html
 http://xiduo.qzz.io/categories/index.html
 http://xiduo.qzz.io/tags/index.html
 http://xiduo.qzz.io/
@@ -30,11 +29,11 @@ http://xiduo.qzz.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
 http://xiduo.qzz.io/tags/Hexo/
 http://xiduo.qzz.io/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/
 http://xiduo.qzz.io/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/
-http://xiduo.qzz.io/tags/%E7%94%9F%E6%B4%BB/
-http://xiduo.qzz.io/tags/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/
 http://xiduo.qzz.io/tags/Windows/
 http://xiduo.qzz.io/tags/%E7%B3%BB%E7%BB%9F%E7%BE%8E%E5%8C%96/
 http://xiduo.qzz.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/
+http://xiduo.qzz.io/tags/%E7%94%9F%E6%B4%BB/
+http://xiduo.qzz.io/tags/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/
 http://xiduo.qzz.io/tags/Cloudflare/
 http://xiduo.qzz.io/tags/Github/
 http://xiduo.qzz.io/tags/Hello-World/

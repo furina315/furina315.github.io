@@ -218,15 +218,6 @@
   </url>
   
   <url>
-    <loc>http://xiduo.qzz.io/Beta/index.html</loc>
-    
-    <lastmod>2025-07-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://xiduo.qzz.io/categories/index.html</loc>
     
     <lastmod>2025-07-29</lastmod>
@@ -247,7 +238,7 @@
 
   <url>
     <loc>http://xiduo.qzz.io/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -255,84 +246,84 @@
   
   <url>
     <loc>http://xiduo.qzz.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/Hexo/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2025-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://xiduo.qzz.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2025-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://xiduo.qzz.io/tags/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/Windows/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/%E7%B3%BB%E7%BB%9F%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiduo.qzz.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiduo.qzz.io/tags/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/</loc>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/Cloudflare/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/Github/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/tags/Hello-World/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -341,21 +332,21 @@
   
   <url>
     <loc>http://xiduo.qzz.io/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiduo.qzz.io/categories/Hello-World/</loc>
-    <lastmod>2025-09-07</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
