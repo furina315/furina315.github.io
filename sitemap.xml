@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xiduo.qzz.io/p/42401/</loc>
+    
+    <lastmod>2025-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://xiduo.qzz.io/p/49802/</loc>
     
     <lastmod>2025-11-08</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>http://xiduo.qzz.io/p/59012/</loc>
-    
-    <lastmod>2025-11-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://xiduo.qzz.io/p/42401/</loc>
     
     <lastmod>2025-11-08</lastmod>
     
