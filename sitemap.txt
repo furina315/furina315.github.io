@@ -1,3 +1,5 @@
+http://xiduo.qzz.io/p/32480/
+http://xiduo.qzz.io/privacy/index.html
 http://xiduo.qzz.io/p/42401/
 http://xiduo.qzz.io/link/index.html
 http://xiduo.qzz.io/p/49802/
@@ -7,7 +9,6 @@ http://xiduo.qzz.io/p/59012/
 http://xiduo.qzz.io/p/58137/
 http://xiduo.qzz.io/update/index.html
 http://xiduo.qzz.io/json/owo.json
-http://xiduo.qzz.io/privacy/index.html
 http://xiduo.qzz.io/Scenery/index.html
 http://xiduo.qzz.io/dailyPhoto/index.html
 http://xiduo.qzz.io/json/music.json
@@ -32,15 +33,19 @@ http://xiduo.qzz.io/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/
 http://xiduo.qzz.io/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/
 http://xiduo.qzz.io/tags/%E7%94%9F%E6%B4%BB/
 http://xiduo.qzz.io/tags/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/
+http://xiduo.qzz.io/tags/MoonTV/
+http://xiduo.qzz.io/tags/Vercel/
+http://xiduo.qzz.io/tags/AI%E7%BC%96%E7%A8%8B/
+http://xiduo.qzz.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/
+http://xiduo.qzz.io/tags/Trae/
 http://xiduo.qzz.io/tags/Windows/
 http://xiduo.qzz.io/tags/%E7%B3%BB%E7%BB%9F%E7%BE%8E%E5%8C%96/
 http://xiduo.qzz.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/
-http://xiduo.qzz.io/tags/MoonTV/
-http://xiduo.qzz.io/tags/Vercel/
 http://xiduo.qzz.io/tags/Cloudflare/
 http://xiduo.qzz.io/tags/Github/
 http://xiduo.qzz.io/tags/Hello-World/
 http://xiduo.qzz.io/categories/%E6%95%99%E7%A8%8B/
 http://xiduo.qzz.io/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/
 http://xiduo.qzz.io/categories/%E6%88%91%E7%9A%84%E9%83%A8%E7%BD%B2/
+http://xiduo.qzz.io/categories/AI-Coder/
 http://xiduo.qzz.io/categories/Hello-World/
