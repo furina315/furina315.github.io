@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.998315.xyz/p/55815/</loc>
+    
+    <lastmod>2026-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.998315.xyz/lighting/index.html</loc>
+    
+    <lastmod>2026-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.998315.xyz/update/index.html</loc>
+    
+    <lastmod>2026-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.998315.xyz/p/58823/</loc>
     
     <lastmod>2025-12-21</lastmod>
@@ -95,15 +122,6 @@
     <loc>http://blog.998315.xyz/p/58137/</loc>
     
     <lastmod>2025-10-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.998315.xyz/update/index.html</loc>
-    
-    <lastmod>2025-09-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -274,7 +292,7 @@
 
   <url>
     <loc>http://blog.998315.xyz/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -282,126 +300,133 @@
   
   <url>
     <loc>http://blog.998315.xyz/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/Hexo/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/%E5%AE%89%E7%9F%A5%E9%B1%BC/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/%E5%AD%A6%E4%B9%A0%E7%94%9F%E6%B6%AF/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/Windows/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/%E7%B3%BB%E7%BB%9F%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/MoonTV/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/Vercel/</loc>
-    <lastmod>2025-12-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.998315.xyz/tags/AI%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2025-12-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.998315.xyz/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2025-12-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.998315.xyz/tags/Trae/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/%E7%B4%A0%E6%9D%90%E7%A7%AF%E7%B4%AF/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.998315.xyz/tags/AI%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.998315.xyz/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.998315.xyz/tags/Trae/</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.998315.xyz/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/Cloudflare/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/Github/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/tags/Hello-World/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -410,42 +435,49 @@
   
   <url>
     <loc>http://blog.998315.xyz/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/categories/%E6%88%91%E7%9A%84%E9%83%A8%E7%BD%B2/</loc>
-    <lastmod>2025-12-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.998315.xyz/categories/AI-Coder/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.998315.xyz/categories/AI-Coder/</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.998315.xyz/categories/%E7%AB%99%E5%8A%A1/</loc>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.998315.xyz/categories/Hello-World/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
